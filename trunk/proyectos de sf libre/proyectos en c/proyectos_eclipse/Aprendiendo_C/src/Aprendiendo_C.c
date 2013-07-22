@@ -70,5 +70,11 @@ int main(void) {
 	printf("---------------------------------\n");
 	printf("multiplica: %d\n", multiplica(2,3,4));
 	printf("---------------------------------\n");
+	printf("---------------------------------\n");
+	printf("suma: %d\n", suma());
+	printf("---------------------------------\n");
+	printf("---------------------------------\n");
+	printf("punteros: %d\n", uso_de_punteros());
+	printf("---------------------------------\n");
 	return EXIT_SUCCESS;
 }
